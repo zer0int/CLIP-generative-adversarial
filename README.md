@@ -16,5 +16,5 @@
 - To visualize indivual 'neurons' (features) in CLIP ViT, see my other repo: [zer0int/CLIP-ViT-visualization](https://github.com/zer0int/CLIP-ViT-visualization)
 - To get a CLIP opinion of what CLIP 'thinks' of an image, see: [zer0int/CLIP-XAI-GUI](https://github.com/zer0int/CLIP-XAI-GUI)
 ------
-Requires: torch, torchvision, numpy, PIL, matplotlib.
+Requires: torch, torchvision, numpy, PIL, matplotlib, OpenCV, (skimage).
 Requires [OpenAI/CLIP](https://github.com/openai/CLIP).
